@@ -157,7 +157,7 @@ Illustrated Reference Chart:
 ## 👨‍💻 Author
 
 **Temuulen Munkhtaivan**  
-🔗 [GitHub Profile](https://github.com/Temuulen-Munkhtaivan/Sign_Language_MNIST)
+🔗 [GitHub Profile](https://github.com/Temuulen-Munkhtaivan)
 
 ---
 
