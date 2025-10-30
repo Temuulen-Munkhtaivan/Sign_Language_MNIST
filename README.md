@@ -84,6 +84,7 @@ pip install tensorflow numpy pandas matplotlib scikit-learn
 ## 🚀 How to Run
 
 1.  Launch Jupyter Notebook or VSCode.
+    
 2.  Open the file:
     
     ```bash
@@ -91,6 +92,7 @@ pip install tensorflow numpy pandas matplotlib scikit-learn
     ```
     
 3.  Run all cells sequentially to:
+    
     -   Load and preprocess dataset
     -   Train the neural network
     -   Evaluate and visualize performance
