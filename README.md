@@ -109,7 +109,7 @@ pip install tensorflow numpy pandas matplotlib scikit-learn
 Sample training output:
 
 ```
-Epoch 8/8 loss: 0.64 - accuracy: 0.75
+Epoch 8/8 loss: 0.64 - accuracy: 0.7540
 ```
 
 ### Confusion Matrix and Accuracy Plot (example placeholders)
