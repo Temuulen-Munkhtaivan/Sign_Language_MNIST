@@ -127,13 +127,13 @@ plt.plot(history.history['accuracy'], label='train_accuracy')plt.plot(history.hi
 ### Example Images from the Dataset
 
 Color Reference:  
-![American Sign Language Reference](/archive/amer_sign3.PNG)
+![American Sign Language Reference](/archive/amer_sign2.png)
 
 Grayscale Training Samples:  
-![Training Samples](/archive/amer_sign2.png)
+![Training Samples](/archive/amer_sign3.png)
 
 Illustrated Reference Chart:  
-![ASL Alphabet Illustration](/archive/american_sign_language.png)
+![ASL Alphabet Illustration](/archive/american_sign_language.PNG)
 
 ---
 
