@@ -17,15 +17,7 @@ It is designed to help bridge communication barriers for people with hearing or 
 The dataset used is the **Sign Language MNIST** dataset — a modified version of MNIST that contains labeled grayscale images of hand gestures.  
 Each image is 28×28 pixels and represents a letter from A to Y (excluding J and Z).
 
-Dataset
-
-File
-
-Samples
-
-Description
-
-Training
+Training: 
 
 `sign_mnist_train.csv`
 
@@ -33,7 +25,7 @@ Training
 
 Grayscale 28×28 images of hand gestures
 
-Testing
+Testing: 
 
 `sign_mnist_test.csv`
 
