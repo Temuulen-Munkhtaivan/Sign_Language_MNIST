@@ -146,14 +146,6 @@ Illustrated Reference Chart:
 
 ---
 
-## 📚 References
-
--   [Sign Language MNIST Dataset (Kaggle)](https://www.kaggle.com/datamunge/sign-language-mnist)
--   TensorFlow Documentation: [https://www.tensorflow.org](https://www.tensorflow.org)
--   Keras API Reference: [https://keras.io](https://keras.io)
-
----
-
 ## 👨‍💻 Author
 
 **Temuulen Munkhtaivan**  
@@ -161,9 +153,11 @@ Illustrated Reference Chart:
 
 ---
 
-## 🪪 License
+## 📚 References
 
-This project is licensed under the **MIT License** – feel free to use and modify it for educational or research purposes.
+-   [Sign Language MNIST Dataset (Kaggle)](https://www.kaggle.com/datamunge/sign-language-mnist)
+-   TensorFlow Documentation: [https://www.tensorflow.org](https://www.tensorflow.org)
+-   Keras API Reference: [https://keras.io](https://keras.io)
 
 ---
 
