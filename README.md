@@ -53,7 +53,11 @@ Evaluation set for trained model
 The model is a simple yet effective **fully connected neural network** built using the **Sequential API** from Keras.
 
 ```python
-model = tf.keras.models.Sequential([    tf.keras.layers.Dense(128, activation='relu', input_shape=(784,)),    tf.keras.layers.Dense(64, activation='relu'),    tf.keras.layers.Dense(24, activation='softmax')])
+model = tf.keras.models.Sequential([
+    tf.keras.layers.Dense(128, activation='relu', input_shape=(784,)),
+    tf.keras.layers.Dense(64, activation='relu'),
+    tf.keras.layers.Dense(24, activation='softmax')
+])
 ```
 
 -   **Input layer:** Flattened 28×28 (784 features)
