@@ -70,7 +70,7 @@ model = tf.keras.models.Sequential([    tf.keras.layers.Dense(128, activation='r
 To run this project locally, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/Temuulen-Munkhtaivan/Sign_Language_MNIST.gitcd Sign_Language_MNISTpip install -r requirements.txt
+git clone  https://github.com/Temuulen-Munkhtaivan/Sign_Language_MNIST
 ```
 
 Or install manually:
@@ -103,13 +103,13 @@ pip install tensorflow numpy pandas matplotlib scikit-learn
 
 -   **Training accuracy:** ~78%
 -   **Testing accuracy:** ~75%
--   **Epochs:** 20
--   **Batch size:** 128
+-   **Epochs:** 8
+-   **Batch size:** 32
 
 Sample training output:
 
 ```
-Epoch 20/20loss: 0.64 - accuracy: 0.75
+Epoch 8/8loss: 0.64 - accuracy: 0.75
 ```
 
 ### Confusion Matrix and Accuracy Plot (example placeholders)
@@ -157,7 +157,6 @@ Illustrated Reference Chart:
 ## 👨‍💻 Author
 
 **Temuulen Munkhtaivan**  
-📍 National College of Ireland  
 🔗 [GitHub Profile](https://github.com/Temuulen-Munkhtaivan/Sign_Language_MNIST)
 
 ---
