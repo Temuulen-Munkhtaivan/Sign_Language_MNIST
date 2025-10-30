@@ -1,4 +1,4 @@
-# 🖐️ Sign Language MNIST Classification
+# 🖐️ Sign Language MNIST ReadMe
 
 A deep learning project that classifies **American Sign Language (ASL)** alphabets using the **Sign Language MNIST dataset**.  
 The model is implemented using **TensorFlow** and **Keras**, and trained on grayscale 28×28 images representing 24 ASL letters (A–Y, excluding J and Z due to motion).
@@ -172,5 +172,5 @@ This project is licensed under the **MIT License** – feel free to use and modi
 If you use this repository in your work, please cite it as:
 
 ```
-@software{temuulen2025signmnist,  author = {Munkhtaivan, Temuulen},  title = {Sign Language MNIST Classification},  year = {2025},  url = {https://github.com/Temuulen-Munkhtaivan/Sign_Language_MNIST}}
+@software{Temuulen_SL_MNIST,  author = {Munkhtaivan, Temuulen},  title = {Sign Language MNIST},  year = {2025},  url = {https://github.com/Temuulen-Munkhtaivan/Sign_Language_MNIST}}
 ```
